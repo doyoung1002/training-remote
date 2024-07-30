@@ -1,3 +1,12 @@
-body { color: #121212;}
-*{ box-sizing: border-box}
-h1 { font-weight: 400; }
+body {
+  color: #121212;
+}
+* {
+  box-sizing: border-box;
+}
+h1 {
+  font-weight: 400;
+}
+p {
+  margin: 0;
+}
